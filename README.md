@@ -162,16 +162,6 @@ Some features that can be added in future versions:
 * Cloud deployment for public access
 * Image history gallery
 
----
-
-# 👨‍💻 Author
-
-**Abhilash Reddy**
-
-Python Developer | AI Enthusiast
-
----
-
 # ⭐ Support
 
 If you like this project, please consider **starring the repository on GitHub**.
