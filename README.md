@@ -4,7 +4,7 @@ The **Cartoonify Image Web App** is a simple and interactive web application tha
 
 The application is built using **Python, Flask, and OpenCV**. Users can upload an image through the web interface, and the system processes the image using computer vision techniques to generate a cartoon version.
 
-The final cartoon image is displayed on the webpage and can also be **downloaded directly by the user**.
+The final cartoon image is displayed on the webpage and can also be **downloaded directly by the user*
 
 ---
 
